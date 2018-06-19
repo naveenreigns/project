@@ -1,0 +1,8 @@
+SELECT
+     question_number, question, answer_A, answer_B, answer_C, answer_D, answer_E,right_answer,totalcorrect
+FROM
+     questions
+ORDER BY
+     rand()  
+LIMIT
+     20 ;
