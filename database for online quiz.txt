@@ -1,0 +1,12 @@
+CREATE TABLE questions
+(
+    question_number INTEGER NOT NULL PRIMARY KEY,
+    question VARCHAR(255) NOT NULL, 
+    answer_A VARCHAR(255) NOT NULL,
+    answer_B VARCHAR(255) NOT NULL,
+    answer_C VARCHAR(255) NOT NULL,
+    answer_D VARCHAR(255) NOT NULL,
+    answer_E VARCHAR(255) NOT NULL,
+    right_answer ENUM ('A', 'B', 'C', 'D', 'E') NOT NULL,
+    totalcorrect VARCHAR(255) NOT NULL
+) ;
