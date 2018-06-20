@@ -22,6 +22,424 @@
     $answer20 = $_POST['question-20-answers'];
 
 
+    $answer21 = $_POST['question-21-answers'];
+    $answer22 = $_POST['question-22-answers'];
+    $answer23 = $_POST['question-23-answers'];
+    $answer24 = $_POST['question-24-answers'];
+    $answer25 = $_POST['question-25-answers'];
+    $answer26 = $_POST['question-26-answers'];
+    $answer27 = $_POST['question-27-answers'];
+    $answer28 = $_POST['question-28-answers'];
+    $answer29 = $_POST['question-29-answers'];
+    $answer30 = $_POST['question-30-answers'];
+    $answer31 = $_POST['question-31-answers'];
+    $answer32 = $_POST['question-32-answers'];
+    $answer33 = $_POST['question-33-answers'];
+    $answer34 = $_POST['question-34-answers'];
+    $answer35 = $_POST['question-35-answers'];
+    $answer36 = $_POST['question-36-answers'];
+    $answer37 = $_POST['question-37-answers'];
+    $answer38 = $_POST['question-38-answers'];
+    $answer39 = $_POST['question-39-answers'];
+    $answer40 = $_POST['question-40-answers'];
+
+
+    $answer41 = $_POST['question-41-answers'];
+    $answer42 = $_POST['question-42-answers'];
+    $answer43 = $_POST['question-43-answers'];
+    $answer44 = $_POST['question-44-answers'];
+    $answer45 = $_POST['question-45-answers'];
+    $answer46 = $_POST['question-46-answers'];
+    $answer47 = $_POST['question-47-answers'];
+    $answer48 = $_POST['question-48-answers'];
+    $answer49 = $_POST['question-49-answers'];
+    $answer50 = $_POST['question-50-answers'];
+    $answer51 = $_POST['question-51-answers'];
+    $answer52 = $_POST['question-52-answers'];
+    $answer53 = $_POST['question-53-answers'];
+    $answer54 = $_POST['question-54-answers'];
+    $answer55 = $_POST['question-55-answers'];
+    $answer56 = $_POST['question-56-answers'];
+    $answer57 = $_POST['question-57-answers'];
+    $answer58 = $_POST['question-58-answers'];
+    $answer59 = $_POST['question-59-answers'];
+    $answer60 = $_POST['question-60-answers'];
+
+
+     $answer61 = $_POST['question-61-answers'];
+    $answer62 = $_POST['question-62-answers'];
+    $answer63 = $_POST['question-63-answers'];
+    $answer64 = $_POST['question-64-answers'];
+    $answer65 = $_POST['question-65-answers'];
+    $answer66 = $_POST['question-66-answers'];
+    $answer67 = $_POST['question-67-answers'];
+    $answer68 = $_POST['question-68-answers'];
+    $answer69 = $_POST['question-69-answers'];
+    $answer70 = $_POST['question-70-answers'];
+    $answer71 = $_POST['question-71-answers'];
+    $answer72 = $_POST['question-72-answers'];
+    $answer73 = $_POST['question-73-answers'];
+    $answer74 = $_POST['question-74-answers'];
+    $answer75 = $_POST['question-75-answers'];
+    $answer76 = $_POST['question-76-answers'];
+    $answer77 = $_POST['question-77-answers'];
+    $answer78 = $_POST['question-78-answers'];
+    $answer79 = $_POST['question-79-answers'];
+    $answer80 = $_POST['question-80-answers'];
+
+    $answer81 = $_POST['question-81-answers'];
+    $answer82 = $_POST['question-82-answers'];
+    $answer83 = $_POST['question-83-answers'];
+    $answer84 = $_POST['question-84-answers'];
+    $answer85 = $_POST['question-85-answers'];
+    $answer86 = $_POST['question-86-answers'];
+    $answer87 = $_POST['question-87-answers'];
+    $answer88 = $_POST['question-88-answers'];
+    $answer89 = $_POST['question-89-answers'];
+    $answer90 = $_POST['question-90-answers'];
+    $answer91 = $_POST['question-91-answers'];
+    $answer92 = $_POST['question-92-answers'];
+    $answer93 = $_POST['question-93-answers'];
+    $answer94 = $_POST['question-94-answers'];
+    $answer95 = $_POST['question-95-answers'];
+    $answer96 = $_POST['question-96-answers'];
+    $answer97 = $_POST['question-97-answers'];
+    $answer98 = $_POST['question-98-answers'];
+    $answer99 = $_POST['question-99-answers'];
+    $answer100 = $_POST['question-100-answers'];
+
+
+    $answer101 = $_POST['question-101-answers'];
+    $answer102 = $_POST['question-102-answers'];
+    $answer103 = $_POST['question-103-answers'];
+    $answer104 = $_POST['question-104-answers'];
+    $answer105 = $_POST['question-105-answers'];
+    $answer106 = $_POST['question-106-answers'];
+    $answer107 = $_POST['question-107-answers'];
+    $answer108 = $_POST['question-108-answers'];
+    $answer109 = $_POST['question-109-answers'];
+    $answer110 = $_POST['question-110-answers'];
+    $answer111 = $_POST['question-111-answers'];
+    $answer112 = $_POST['question-112-answers'];
+    $answer113 = $_POST['question-113-answers'];
+    $answer114 = $_POST['question-114-answers'];
+    $answer115 = $_POST['question-115-answers'];
+    $answer116 = $_POST['question-116-answers'];
+    $answer117 = $_POST['question-117-answers'];
+    $answer118 = $_POST['question-118-answers'];
+    $answer119 = $_POST['question-119-answers'];
+    $answer120 = $_POST['question-120-answers'];
+
+
+    $answer121 = $_POST['question-121-answers'];
+    $answer122 = $_POST['question-122-answers'];
+    $answer123 = $_POST['question-123-answers'];
+    $answer124 = $_POST['question-124-answers'];
+    $answer125 = $_POST['question-125-answers'];
+    $answer126 = $_POST['question-126-answers'];
+    $answer127 = $_POST['question-127-answers'];
+    $answer128 = $_POST['question-128-answers'];
+    $answer129 = $_POST['question-129-answers'];
+    $answer130 = $_POST['question-130-answers'];
+    $answer131 = $_POST['question-131-answers'];
+    $answer132 = $_POST['question-132-answers'];
+    $answer133 = $_POST['question-133-answers'];
+    $answer134 = $_POST['question-134-answers'];
+    $answer135 = $_POST['question-135-answers'];
+    $answer136 = $_POST['question-136-answers'];
+    $answer137 = $_POST['question-137-answers'];
+    $answer138 = $_POST['question-138-answers'];
+    $answer139 = $_POST['question-139-answers'];
+    $answer140 = $_POST['question-140-answers'];
+
+
+    $answer141 = $_POST['question-141-answers'];
+    $answer142 = $_POST['question-142-answers'];
+    $answer143 = $_POST['question-143-answers'];
+    $answer144 = $_POST['question-144-answers'];
+    $answer145 = $_POST['question-145-answers'];
+    $answer146 = $_POST['question-146-answers'];
+    $answer147 = $_POST['question-147-answers'];
+    $answer148 = $_POST['question-148-answers'];
+    $answer149 = $_POST['question-149-answers'];
+    $answer150 = $_POST['question-150-answers'];
+    $answer151 = $_POST['question-151-answers'];
+    $answer152 = $_POST['question-152-answers'];
+    $answer153 = $_POST['question-153-answers'];
+    $answer154 = $_POST['question-154-answers'];
+    $answer155 = $_POST['question-155-answers'];
+    $answer156 = $_POST['question-156-answers'];
+    $answer157 = $_POST['question-157-answers'];
+    $answer158 = $_POST['question-158-answers'];
+    $answer159 = $_POST['question-159-answers'];
+    $answer160 = $_POST['question-160-answers'];
+
+
+     $answer161 = $_POST['question-161-answers'];
+    $answer162 = $_POST['question-162-answers'];
+    $answer163 = $_POST['question-163-answers'];
+    $answer164 = $_POST['question-164-answers'];
+    $answer165 = $_POST['question-165-answers'];
+    $answer166 = $_POST['question-166-answers'];
+    $answer167 = $_POST['question-167-answers'];
+    $answer168 = $_POST['question-168-answers'];
+    $answer169 = $_POST['question-169-answers'];
+    $answer170 = $_POST['question-170-answers'];
+    $answer171 = $_POST['question-171-answers'];
+    $answer172 = $_POST['question-172-answers'];
+    $answer173 = $_POST['question-173-answers'];
+    $answer174 = $_POST['question-174-answers'];
+    $answer175 = $_POST['question-175-answers'];
+    $answer176 = $_POST['question-176-answers'];
+    $answer177 = $_POST['question-177-answers'];
+    $answer178 = $_POST['question-178-answers'];
+    $answer179 = $_POST['question-179-answers'];
+    $answer180 = $_POST['question-180-answers'];
+
+     $answer181 = $_POST['question-181-answers'];
+    $answer182 = $_POST['question-182-answers'];
+    $answer183 = $_POST['question-183-answers'];
+    $answer184 = $_POST['question-184-answers'];
+    $answer185 = $_POST['question-185-answers'];
+    $answer186 = $_POST['question-186-answers'];
+    $answer187 = $_POST['question-187-answers'];
+    $answer188 = $_POST['question-188-answers'];
+    $answer189 = $_POST['question-189-answers'];
+    $answer190 = $_POST['question-190-answers'];
+    $answer191 = $_POST['question-191-answers'];
+    $answer192 = $_POST['question-192-answers'];
+    $answer193 = $_POST['question-193-answers'];
+    $answer194 = $_POST['question-194-answers'];
+    $answer195 = $_POST['question-195-answers'];
+    $answer196 = $_POST['question-196-answers'];
+    $answer197 = $_POST['question-197-answers'];
+    $answer198 = $_POST['question-198-answers'];
+    $answer199 = $_POST['question-199-answers'];
+    $answer200 = $_POST['question-200-answers'];
+
+
+
+   $answer201 = $_POST['question-201-answers'];
+    $answer202 = $_POST['question-202-answers'];
+    $answer203 = $_POST['question-203-answers'];
+    $answer204 = $_POST['question-204-answers'];
+    $answer205 = $_POST['question-205-answers'];
+    $answer206 = $_POST['question-206-answers'];
+    $answer207 = $_POST['question-207-answers'];
+    $answer208 = $_POST['question-208-answers'];
+    $answer209 = $_POST['question-209-answers'];
+    $answer210 = $_POST['question-210-answers'];
+    $answer211 = $_POST['question-211-answers'];
+    $answer212 = $_POST['question-212-answers'];
+    $answer213 = $_POST['question-213-answers'];
+    $answer214 = $_POST['question-214-answers'];
+    $answer215 = $_POST['question-215-answers'];
+    $answer216 = $_POST['question-216-answers'];
+    $answer217 = $_POST['question-217-answers'];
+    $answer218 = $_POST['question-218-answers'];
+    $answer219 = $_POST['question-219-answers'];
+    $answer220 = $_POST['question-220-answers'];
+
+
+    $answer221 = $_POST['question-221-answers'];
+    $answer222 = $_POST['question-222-answers'];
+    $answer223 = $_POST['question-223-answers'];
+    $answer224 = $_POST['question-224-answers'];
+    $answer225 = $_POST['question-225-answers'];
+    $answer226 = $_POST['question-226-answers'];
+    $answer227 = $_POST['question-227-answers'];
+    $answer228 = $_POST['question-228-answers'];
+    $answer229 = $_POST['question-229-answers'];
+    $answer230 = $_POST['question-230-answers'];
+    $answer231 = $_POST['question-231-answers'];
+    $answer232 = $_POST['question-232-answers'];
+    $answer233 = $_POST['question-233-answers'];
+    $answer234 = $_POST['question-234-answers'];
+    $answer235 = $_POST['question-235-answers'];
+    $answer236 = $_POST['question-236-answers'];
+    $answer237 = $_POST['question-237-answers'];
+    $answer238 = $_POST['question-238-answers'];
+    $answer239 = $_POST['question-239-answers'];
+    $answer240 = $_POST['question-240-answers'];
+
+
+    $answer241 = $_POST['question-241-answers'];
+    $answer242 = $_POST['question-242-answers'];
+    $answer243 = $_POST['question-243-answers'];
+    $answer244 = $_POST['question-244-answers'];
+    $answer245 = $_POST['question-245-answers'];
+    $answer246 = $_POST['question-246-answers'];
+    $answer247 = $_POST['question-247-answers'];
+    $answer248 = $_POST['question-248-answers'];
+    $answer249 = $_POST['question-249-answers'];
+    $answer250 = $_POST['question-250-answers'];
+    $answer251 = $_POST['question-251-answers'];
+    $answer252 = $_POST['question-252-answers'];
+    $answer253 = $_POST['question-253-answers'];
+    $answer254 = $_POST['question-254-answers'];
+    $answer255 = $_POST['question-255-answers'];
+    $answer256 = $_POST['question-256-answers'];
+    $answer257 = $_POST['question-257-answers'];
+    $answer258 = $_POST['question-258-answers'];
+    $answer259 = $_POST['question-259-answers'];
+    $answer260 = $_POST['question-260-answers'];
+
+
+     $answer261 = $_POST['question-261-answers'];
+    $answer262  = $_POST['question-262-answers'];
+    $answer263 = $_POST['question-263-answers'];
+    $answer264 = $_POST['question-264-answers'];
+    $answer265 = $_POST['question-265-answers'];
+    $answer266 = $_POST['question-266-answers'];
+    $answer267 = $_POST['question-267-answers'];
+    $answer268 = $_POST['question-268-answers'];
+    $answer269 = $_POST['question-269-answers'];
+    $answer270 = $_POST['question-270-answers'];
+    $answer271 = $_POST['question-271-answers'];
+    $answer272 = $_POST['question-272-answers'];
+    $answer273 = $_POST['question-273-answers'];
+    $answer274 = $_POST['question-274-answers'];
+    $answer275 = $_POST['question-275-answers'];
+    $answer276 = $_POST['question-276-answers'];
+    $answer277 = $_POST['question-277-answers'];
+    $answer278 = $_POST['question-278-answers'];
+    $answer279 = $_POST['question-279-answers'];
+    $answer280 = $_POST['question-280-answers'];
+
+     $answer281 = $_POST['question-281-answers'];
+    $answer282 = $_POST['question-282-answers'];
+    $answer283 = $_POST['question-283-answers'];
+    $answer284 = $_POST['question-284-answers'];
+    $answer285 = $_POST['question-285-answers'];
+    $answer286 = $_POST['question-286-answers'];
+    $answer287 = $_POST['question-287-answers'];
+    $answer288 = $_POST['question-288-answers'];
+    $answer289 = $_POST['question-289-answers'];
+    $answer290 = $_POST['question-290-answers'];
+    $answer291 = $_POST['question-291-answers'];
+    $answer292 = $_POST['question-292-answers'];
+    $answer293 = $_POST['question-293-answers'];
+    $answer294 = $_POST['question-294-answers'];
+    $answer295 = $_POST['question-295-answers'];
+    $answer296 = $_POST['question-296-answers'];
+    $answer297 = $_POST['question-297-answers'];
+    $answer298 = $_POST['question-298-answers'];
+    $answer299 = $_POST['question-299-answers'];
+    $answer300 = $_POST['question-300-answers'];
+
+
+
+    $answer301 = $_POST['question-301-answers'];
+    $answer302 = $_POST['question-302-answers'];
+    $answer303 = $_POST['question-303-answers'];
+    $answer304 = $_POST['question-304-answers'];
+    $answer305 = $_POST['question-305-answers'];
+    $answer306 = $_POST['question-306-answers'];
+    $answer307 = $_POST['question-307-answers'];
+    $answer308 = $_POST['question-308-answers'];
+    $answer309 = $_POST['question-309-answers'];
+    $answer310 = $_POST['question-310-answers'];
+    $answer311 = $_POST['question-311-answers'];
+    $answer312 = $_POST['question-312-answers'];
+    $answer313 = $_POST['question-313-answers'];
+    $answer314 = $_POST['question-314-answers'];
+    $answer315 = $_POST['question-315-answers'];
+    $answer316 = $_POST['question-316-answers'];
+    $answer317 = $_POST['question-317-answers'];
+    $answer318 = $_POST['question-318-answers'];
+    $answer319 = $_POST['question-319-answers'];
+    $answer320 = $_POST['question-320-answers'];
+
+
+    $answer321 = $_POST['question-321-answers'];
+    $answer322 = $_POST['question-322-answers'];
+    $answer323 = $_POST['question-323-answers'];
+    $answer324 = $_POST['question-324-answers'];
+    $answer325 = $_POST['question-325-answers'];
+    $answer326 = $_POST['question-326-answers'];
+    $answer327 = $_POST['question-327-answers'];
+    $answer328 = $_POST['question-328-answers'];
+    $answer329 = $_POST['question-329-answers'];
+    $answer330 = $_POST['question-330-answers'];
+    $answer331 = $_POST['question-331-answers'];
+    $answer332 = $_POST['question-332-answers'];
+    $answer333 = $_POST['question-333-answers'];
+    $answer334 = $_POST['question-334-answers'];
+    $answer335 = $_POST['question-335-answers'];
+    $answer336 = $_POST['question-336-answers'];
+    $answer337 = $_POST['question-337-answers'];
+    $answer338 = $_POST['question-338-answers'];
+    $answer339 = $_POST['question-339-answers'];
+    $answer340 = $_POST['question-340-answers'];
+
+
+    $answer341 = $_POST['question-341-answers'];
+    $answer342 = $_POST['question-342-answers'];
+    $answer343 = $_POST['question-343-answers'];
+    $answer344 = $_POST['question-344-answers'];
+    $answer345 = $_POST['question-345-answers'];
+    $answer346 = $_POST['question-346-answers'];
+    $answer347 = $_POST['question-347-answers'];
+    $answer348 = $_POST['question-348-answers'];
+    $answer349 = $_POST['question-349-answers'];
+    $answer350 = $_POST['question-350-answers'];
+    $answer351 = $_POST['question-351-answers'];
+    $answer352 = $_POST['question-352-answers'];
+    $answer353 = $_POST['question-353-answers'];
+    $answer354 = $_POST['question-354-answers'];
+    $answer355 = $_POST['question-355-answers'];
+    $answer356 = $_POST['question-356-answers'];
+    $answer357 = $_POST['question-357-answers'];
+    $answer358 = $_POST['question-358-answers'];
+    $answer359 = $_POST['question-359-answers'];
+    $answer360 = $_POST['question-360-answers'];
+
+
+     $answer361 = $_POST['question-361-answers'];
+    $answer362 = $_POST['question-362-answers'];
+    $answer363 = $_POST['question-363-answers'];
+    $answer364 = $_POST['question-364-answers'];
+    $answer365= $_POST['question-365-answers'];
+    $answer366 = $_POST['question-366-answers'];
+    $answer367= $_POST['question-367-answers'];
+    $answer368 = $_POST['question-368-answers'];
+    $answer369 = $_POST['question-369-answers'];
+    $answer370 = $_POST['question-370-answers'];
+    $answer371 = $_POST['question-371-answers'];
+    $answer372 = $_POST['question-372-answers'];
+    $answer373 = $_POST['question-373-answers'];
+    $answer374 = $_POST['question-374-answers'];
+    $answer375 = $_POST['question-375-answers'];
+    $answer376 = $_POST['question-376-answers'];
+    $answer377 = $_POST['question-377-answers'];
+    $answer378 = $_POST['question-378-answers'];
+    $answer379 = $_POST['question-379-answers'];
+    $answer380 = $_POST['question-380-answers'];
+
+     $answer381 = $_POST['question-381-answers'];
+    $answer382 = $_POST['question-382-answers'];
+    $answer383 = $_POST['question-383-answers'];
+    $answer384 = $_POST['question-384-answers'];
+    $answer385 = $_POST['question-385-answers'];
+    $answer386 = $_POST['question-386-answers'];
+    $answer387 = $_POST['question-387-answers'];
+    $answer388 = $_POST['question-388-answers'];
+    $answer389 = $_POST['question-389-answers'];
+    $answer390 = $_POST['question-390-answers'];
+    $answer391 = $_POST['question-391-answers'];
+    $answer392= $_POST['question-392-answers'];
+    $answer393 = $_POST['question-393-answers'];
+    $answer394 = $_POST['question-394-answers'];
+    $answer395 = $_POST['question-395-answers'];
+    $answer396 = $_POST['question-396-answers'];
+    $answer397 = $_POST['question-397-answers'];
+    $answer398 = $_POST['question-398-answers'];
+    $answer399 = $_POST['question-399-answers'];
+    $answer400 = $_POST['question-400-answers'];
+
+
+
+
 $totalCorrect = 0;
     
     if ($answer1 == "B")
@@ -104,7 +522,2603 @@ $totalCorrect = 0;
  {
  $totalCorrect++;
  }
+
+
+ 
+    if ($answer21 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer22 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer23 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer24 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer25 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer26 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer27 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer28 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer29 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer30 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer31 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer32 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer33 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer34 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer35 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer36 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer37 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer38 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer39 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer40 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+ 
+    if ($answer41 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer42 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer43 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer44 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer45 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer46 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer47 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer48 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer49 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer50 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer51 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer52 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer53 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer54 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer55 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer56 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer57 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer58 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer59 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer60 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+ 
+    if ($answer61 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer62 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer63 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer64 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer65 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer66 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer67 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer68 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer69 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer70 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer71 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer72 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer73 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer74 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer75 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer76 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer77 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer78 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer79 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer80 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+ 
+    if ($answer81 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer82 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer83 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer84 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer85 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer86 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer87 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer88 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer89 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer90 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer91 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer92 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer93 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer94 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer95 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer96 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer97 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer98 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer99 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer100 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+ 
+    if ($answer101 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer102 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer103 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer104 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer105 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer106 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer107 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer108 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer109 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer110 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer111 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer112 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer113 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer114 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer115 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer116 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer117 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer118 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer119 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer120 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+ 
+    if ($answer121 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer122 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer123 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer124 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer125 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer126 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer127 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer128 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer129 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer130 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer131 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer132 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer133 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer134 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer135 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer136 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer137 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer138 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer139 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer140 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+ 
+    if ($answer141 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer142 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer143 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer144 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer145 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer146 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer147 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer148 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer149 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer150 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer151 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer152 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer153 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer154 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer155 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer156 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer157 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer158 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer159 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer160 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+ 
+    if ($answer161 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer162 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer163 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer164 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer165 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer166 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer167 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer168 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer169 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer170 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer171 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer172 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer173 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer174 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer175 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer176 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer177 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer178 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer179 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer180 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+ 
+    if ($answer181 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer182 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer183 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer184 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer185 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer186 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer187 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer188 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer189 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer190 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer191 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer192 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer193 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer194 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer195 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer196 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer197 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer198 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer199 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer200 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+ 
+    if ($answer201 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer202 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer203 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer204 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer205 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer206 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer207 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer208 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer209 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer210 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer211 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer212 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer213 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer214 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer215 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer216 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer217 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer218 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer219 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer220 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+ 
+    if ($answer221 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer222 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer223 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer224 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer225 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer226 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer227 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer228 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer229 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer230 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer231 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer232 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer233 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer234 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer235 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer236 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer237 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer238 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer239 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer240 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+ 
+    if ($answer241 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer242 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer243 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer244 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer245 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer246 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer247 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer248 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer249 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer250 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer251 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer252 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer253 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer254 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer255 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer256 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer257 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer258 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer259 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer260 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+ 
+    if ($answer261 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer262 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer263 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer264 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer265 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer266 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer267 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer268 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer269 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer270 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer271 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer272 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer273 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer274 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer275 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer276 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer277 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer278 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer279 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer280 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+ 
+    if ($answer281 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer282 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer283 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer284 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer285 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer286 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer287 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer288 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer289 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer290 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer291 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer292 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer293 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer294 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer295 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer296 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer297 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer298 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer299 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer300 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+ 
+    if ($answer301 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer302 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer303 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer304 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer305 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer306 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer307 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer308 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer309 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer310 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer311 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer312 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer313 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer314 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer315 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer316 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer317 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer318 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer319 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer320 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+ 
+    if ($answer321 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer322 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer323 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer324 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer325 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer326 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer327 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer328 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer329 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer330 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer331 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer332 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer333 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer334 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer335 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer336 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer337 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer338 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer339 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer340 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+
+ 
+    if ($answer341 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer342 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer343 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer344 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer345 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer346 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer347 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer348 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer349 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer350 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer351 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer352 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer353 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer354 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer355 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer356 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer357 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer358 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer359 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer360 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+ 
+    if ($answer361 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer362 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer363 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer364 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer365 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer366 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer367 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer368 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer369 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer370 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer371 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer372 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer373 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer374 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer375 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer376 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer377 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer378 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer379 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer380 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+
+ 
+    if ($answer381 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer382 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer383 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer384 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer385 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer386 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer387 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer388 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer389 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer390 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer391 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer392 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer393 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer394 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer395 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer396 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer397 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer398 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer399 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer400 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+
+ 
+    if ($answer1 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer2 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer3 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer4 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer5 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer6 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer7 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer8 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer9 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer10 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer11 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer12 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer13 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer14 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer15 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer16 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer17 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer18 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer19 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer20 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+ 
+    if ($answer1 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer2 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer3 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer4 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer5 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer6 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer7 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer8 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer9 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer10 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer11 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer12 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer13 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer14 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer15 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer16 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer17 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer18 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer19 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer20 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+
+ 
+    if ($answer1 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer2 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer3 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer4 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer5 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer6 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer7 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer8 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer9 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer10 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer11 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer12 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer13 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer14 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer15 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer16 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer17 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer18 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer19 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer20 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+
+
+ 
+    if ($answer1 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer2 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer3 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer4 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer5 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer6 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer7 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer8 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer9 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer10 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer11 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer12 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer13 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer14 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer15 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer16 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer17 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer18 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer19 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer20 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+    if ($answer1 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer2 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer3 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer4 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer5 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer6 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer7 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer8 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer9 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer10 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer11 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer12 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer13 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer14 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer15 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer16 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer17 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer18 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer19 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer20 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+
+
+
+
+ 
+    if ($answer1 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer2 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer3 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer4 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer5 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer6 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer7 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer8 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer9 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer10 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer11 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer12 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer13 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer14 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer15 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer16 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer17 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer18 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer19 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer20 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+    if ($answer1 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer2 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer3 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer4 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer5 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer6 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer7 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer8 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer9 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer10 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer11 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer12 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer13 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer14 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer15 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer16 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer17 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer18 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer19 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer20 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+    if ($answer1 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer2 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer3 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer4 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer5 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer6 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer7 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer8 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer9 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer10 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer11 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer12 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer13 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer14 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer15 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer16 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer17 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer18 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer19 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer20 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+
+
+
+
+
+
+
+ 
+    if ($answer1 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer2 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer3 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer4 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer5 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer6 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer7 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer8 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer9 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer10 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer11 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer12 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer13 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer14 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer15 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer16 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer17 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer18 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer19 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer20 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+
+
+
+
+
+
+
+ 
+    if ($answer1 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer2 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer3 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer4 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer5 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer6 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer7 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer8 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer9 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer10 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer11 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer12 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer13 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer14 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer15 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer16 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer17 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer18 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer19 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer20 == "B")
+ {
+ $totalCorrect++;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+    if ($answer1 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer2 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer3 == "C")
+ {
+ $totalCorrect++; 
+}
+    if ($answer4 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer5 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer6 == "B")
+ {
+ $totalCorrect++;
+ }
+    if ($answer7 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer8 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer9 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer10 == "C")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer11 == "D")
+ {
+ $totalCorrect++;
+ }
+    if ($answer12 == "A")
+ {
+ $totalCorrect++; 
+ }
+    if ($answer13 == "E")
+ {
+ $totalCorrect++;
+ }
+    if ($answer14 == "A")
+ {
+ $totalCorrect++;
+ }
+    if ($answer15 == "C")
+ {
+ $totalCorrect++;
+ }
+    if ($answer16 == "A") 
+ {
+ $totalCorrect++; 
+ }
+    if ($answer17 == "B") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer18 == "D") 
+ {
+ $totalCorrect++;
+ }
+    if ($answer19 == "A")
+ { 
+ $totalCorrect++;
+ }
+    if ($answer20 == "B")
+ {
+ $totalCorrect++;
+ }
     
-    echo "<div id='results'>$totalCorrect / 20 correct</div>";
+    echo "<div id='results'>$totalCorrect / 400 correct</div>";
     
 ?>
